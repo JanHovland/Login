@@ -117,6 +117,8 @@ struct signUp : View  {
             }
             .cornerRadius(20)
             .shadow(radius: 25)
+            
+            Spacer()
         })
         .padding(.horizontal, 18)
     }
